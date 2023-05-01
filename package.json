@@ -5,6 +5,10 @@
   "repository": "https://github.com/eryson/clean-solid-ts-api.git",
   "author": "Eryson <eryson.ktm@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "@types/node": "^18.16.3",
