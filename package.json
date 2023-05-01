@@ -1,0 +1,8 @@
+{
+  "name": "clean-solid-ts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eryson/clean-solid-ts-api.git",
+  "author": "Eryson <eryson.ktm@gmail.com>",
+  "license": "MIT"
+}
