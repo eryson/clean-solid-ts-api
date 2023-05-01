@@ -1,5 +1,5 @@
 import { SignUpController } from '../../../src/presentation/controllers/signup'
-import { type EmailValidator } from '../../../src/presentation/protocols/email-validator'
+import { type EmailValidator } from '../../../src/presentation/protocols'
 import {
   MissingParamError,
   InvalidParamError,
